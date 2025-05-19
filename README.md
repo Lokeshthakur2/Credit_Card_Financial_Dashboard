@@ -1,8 +1,8 @@
-## CREDIT CARD WEEKLY STATUS REPORT
-# Project Objective 
+# CREDIT CARD WEEKLY STATUS REPORT
+## Project Objective 
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively
 
-# Project Insights- Week 53 (31st Dec) 
+## Project Insights- Week 53 (31st Dec) 
 WoW change:
  - Revenue increased by 28.8%, 
  - Total Transaction Amt & Count increased by 35% & 3.39% 
