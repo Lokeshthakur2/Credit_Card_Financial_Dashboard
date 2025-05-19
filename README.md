@@ -6,8 +6,15 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 WoW change:
  - Revenue increased by 28.8%, 
  - Total Transaction Amt & Count increased by 35% & 3.39% 
- - Customer count increased by 12.80% 
- 
+ - Customer count increased by 12.80%
+ - 
+## 📷 Dashboard Preview
+![image](https://github.com/user-attachments/assets/22e96f13-db7d-4271-9e3a-1b65f5fba318)
+
+![image](https://github.com/user-attachments/assets/a73df2bd-ccb8-4128-a162-26b5acec950f)
+
+
+
 Overview YTD: 
  - Overall revenue is 57M 
  - Total interest is 8M 
